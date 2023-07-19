@@ -1,0 +1,17 @@
+
+.footer-item{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    background-color: black;
+    height: 400px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+ .product,.help,.c-service{
+    margin-left: 50px;
+    margin-right: 50px;
+ }

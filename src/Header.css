@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300&family=Krub:ital,wght@0,200;0,300;1,200;1,300&family=Montserrat:ital,wght@0,300;1,200&family=Oswald&family=Poppins:ital,wght@0,200;1,100;1,200&family=Sen&display=swap');
+.Header{
+  background-color: white;
+  
+  
+}
+.header{
+ background-color: #934949;
+ padding: 16px;
+ text-align: end;
+ color: white;
+}
+.search{
+ 
+  width: 250px;
+  height: 40px;
+  /* margin-left: 20px; */
+  margin-top: 30px;
+
+  margin-right: 100px;
+ 
+}
+.search-bar-cont{
+  display: flex;
+  background-color: white;
+ 
+}
+#search-bar{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+.crocs-head{
+  color: red;
+  margin-right: 150px;
+  font-family:'Oswald', sans-serif;
+  font-size: 35px;
+ font-weight: bold;
+ margin-top: 22px;
+
+}
+.button{
+  width: 100px;
+  height: 40px;
+  margin-top: 30px;
+
+  color: white;
+  background-color:#708E95;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+.navbar{
+  font-size: 24px;
+}
+.cart{
+  width: 60px;
+  height: 60px;
+  margin-top: 21px;
+  margin-left: 100px;
+}
+#search-label{
+  width: 500px;
+  height: 39px;
+  margin-left: -100px;
+  /* position: absolute; */
+  box-shadow: 0px 4px 4px rgba(224, 213, 213, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background: #FDFDFD;
+  box-sizing: border-box;
+}
